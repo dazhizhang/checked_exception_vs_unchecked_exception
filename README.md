@@ -1,5 +1,7 @@
 # checked_exception_vs_unchecked_exception
 
+http://blog.csdn.net/yuefengyuan/article/details/6204317
+
 http://blog.csdn.net/kingzone_2008/article/details/8535287
 
 http://xiaotian-ls.iteye.com/blog/257636
