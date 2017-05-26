@@ -12,4 +12,4 @@ http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAM
 
 创建RuntimeException第三方类库
 
- throw Lang.wrapThrow(e);
+ throw Lang.wrapThrow(e);   // org.nutz.lang.Lang
